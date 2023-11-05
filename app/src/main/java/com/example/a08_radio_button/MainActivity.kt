@@ -24,15 +24,13 @@ class MainActivity : ComponentActivity() {
                 ) {
 
                     RadioButtonM3()
-                    RadioButtonM3()
-                    RadioButtonM3()
-                    RadioButtonM3()
+
                 }
                 }
             }
         }
     }
-}
+
 
 
 

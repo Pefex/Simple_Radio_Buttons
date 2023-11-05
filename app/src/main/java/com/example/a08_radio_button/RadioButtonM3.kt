@@ -38,8 +38,7 @@ fun RadioButtonM3(){
                     selected = selectedOption == option,
                     onClick = null)
                 Text(text = "Mangel: " + option)
-                Text(text = "Mangel: " + option)
-                Text(text = "Hallo")
+
             }
         }
     }
